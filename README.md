@@ -14,6 +14,7 @@ __~deeplearning.ai__
 1. [Certificate](#certificate-)
 
 ## Week 1 
+- [Lecture Notebook: Introduction To Trax]()
 
 ## Week 2
 
